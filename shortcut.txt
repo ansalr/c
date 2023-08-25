@@ -1,0 +1,1 @@
+c malual  ->  https://manual.cs50.io/#printf
